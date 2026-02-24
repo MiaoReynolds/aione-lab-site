@@ -1,4 +1,4 @@
-# Software Projects
+# AI Projects
 
 This section will host commercial software portfolio entries.
 

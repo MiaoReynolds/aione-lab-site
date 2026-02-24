@@ -1,4 +1,4 @@
-# Hardware Projects
+# Embedded Hardwares
 
 This section will host commercial hardware portfolio entries.
 

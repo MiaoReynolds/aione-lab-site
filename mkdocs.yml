@@ -1,4 +1,4 @@
-site_name: AIONE
+site_name: AIONE Lab
 site_description: Commercial software and hardware company
 site_url: https://miaoreynolds.github.io/aione-lab-site/
 
@@ -30,8 +30,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Software Projects: software-projects.md
-  - Hardware Projects: hardware-projects.md
+  - AI Projects: software-projects.md
+  - Embedded Hardwares: hardware-projects.md
   - About: about.md
   - Contact Us: contact-us.md
 
