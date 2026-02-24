@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="AIONE logo">
+  <defs>
+    <linearGradient id="aioneGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00796b"/>
+      <stop offset="100%" stop-color="#37474f"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="22" fill="url(#aioneGrad)"/>
+  <path d="M64 26L94 96H80L72 78H56L48 96H34L64 26ZM61 66H67L64 58L61 66Z" fill="#ffffff"/>
+</svg>
